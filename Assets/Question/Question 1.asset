@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Which is the material of Harry Potter's wand core?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Dragon heartstring
+  - Phoenix feather
+  - Unicorn tail hair
+  - Veela hair
   correctAnswerIndex: 1
